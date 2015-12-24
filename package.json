@@ -10,7 +10,7 @@
     "engine",
     "2d"
   ],
-  "main": "./src/p2.js",
+  "main": "./build/p2.js",
   "engines": {
     "node": "*"
   },
